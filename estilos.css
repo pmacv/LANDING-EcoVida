@@ -243,8 +243,14 @@ button[type="submit"]:hover {
     gap: 20px;
 }
 
+.social a {
+    text-decoration: none;
+}
+
 .social i {
     font-size: 1.5rem;
+    color: #4CAF50;
+
 }
 
 
@@ -317,4 +323,13 @@ textarea:focus {
     .producto {
         width: 90%;
     }
+}
+
+.social a {
+    text-decoration: none;
+}
+
+.social i {
+    font-size: 1.5rem;
+    color: #4CAF50;
 }
